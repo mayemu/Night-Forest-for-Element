@@ -14,20 +14,12 @@
       "roomlist-separator-color": "#83d4cb",
       "timeline-background-color": "#131f1d",
       "timeline-text-color": "#dcede9",
-      "secondary-content": "#83d4cb",
+      "secondary-content": "#c6d5d1",
       "tertiary-content": "#83d4cb",
       "timeline-text-secondary-color": "#c6d5d1",
       "timeline-highlights-color": "#00000030",
       "reaction-row-button-selected-bg-color": "#1d4d51",
-      "menu-selected-color": "#45475a",
-      "focus-bg-color": "#585b70",
-      "room-highlight-color": "#83d4cb",
       "togglesw-off-color": "#9399b2",
       "other-user-pill-bg-color": "#83d4cb",
-      "avatar-background-colors": [
-        "#89b4fa",
-        "#cba6f7",
-        "#a6e3a1"
-      ]
     }
   }
