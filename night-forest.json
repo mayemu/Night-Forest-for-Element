@@ -1,0 +1,22 @@
+{
+        "name": "Night Forest",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#81d5cb",
+          "primary-color": "#131f1d",
+          "warning-color": "#bd93f9",
+          "sidebar-color": "#1b2121",
+          "roomlist-background-color": "#324b48",
+          "roomlist-text-color": "#81d5cb",
+          "roomlist-text-secondary-color": "#eeeeee",
+          "roomlist-highlights-color": "#2f3e3b30",
+          "roomlist-separator-color": "#4d4d4d90",
+          "timeline-background-color": "#131f1d",
+          "timeline-text-color": "#95a19f",
+          "secondary-content": "#2f3e3b",
+          "tertiary-content": "#eeeeee",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
+}
