@@ -2,9 +2,9 @@
     "name": "Night Forest",
     "is_dark": true,
     "colors": {
-        "accent-color": "#c6d5d1",
+        "accent-color": "#83d4cb",
         "primary-color": "#131f1d",
-        "warning-color": "#83d4cb",
+        "warning-color": "#c6d5d1",
         "alert": "#83d4cb",
         "sidebar-color": "#131f1d",
         "roomlist-background-color": "#192d2b",
