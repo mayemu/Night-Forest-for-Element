@@ -1,0 +1,33 @@
+{
+    "name": "Night Forest",
+    "is_dark": true,
+    "colors": {
+      "accent-color": "#7bd4ca",
+      "primary-color": "#131f1d",
+      "warning-color": "#6ddbc8",
+      "alert": "#7bd4ca",
+      "sidebar-color": "#11111b",
+      "roomlist-background-color": "#192d2b",
+      "roomlist-text-color": "#ffffff",
+      "roomlist-text-secondary-color": "#6ddbc8",
+      "roomlist-highlights-color": "#1d4d51",
+      "roomlist-separator-color": "#6ddbc8",
+      "timeline-background-color": "#131f1d",
+      "timeline-text-color": "#dcede9",
+      "secondary-content": "#2f3e3b",
+      "tertiary-content": "#eeeeee",
+      "timeline-text-secondary-color": "#95a19f",
+      "timeline-highlights-color": "#00000030",
+      "reaction-row-button-selected-bg-color": "#1d4d51",
+      "menu-selected-color": "#45475a",
+      "focus-bg-color": "#585b70",
+      "room-highlight-color": "#7bd4ca",
+      "togglesw-off-color": "#9399b2",
+      "other-user-pill-bg-color": "#7bd4ca",
+      "avatar-background-colors": [
+        "#89b4fa",
+        "#cba6f7",
+        "#a6e3a1"
+      ]
+    }
+  }
