@@ -3,8 +3,8 @@
     "is_dark": true,
     "colors": {
         "accent-color": "#83d4cb",
-        "primary-color": "#131f1d",
-        "warning-color": "#c6d5d1",
+        "primary-color": "#00FFA1",
+        "warning-color": "#83d4cb",
         "alert": "#83d4cb",
         "sidebar-color": "#131f1d",
         "roomlist-background-color": "#192d2b",
